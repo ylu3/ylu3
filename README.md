@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, there 👋
 
-<!--
-**ylu3/ylu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev backend and Data Engineer from Paris.
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML | CSS | JavaScript 
+- 🛢️ MongoDB | SQL Server | PostgreSQL
+- 🖥️ Python | C# | R
+
+## Blog Posts 
+
+- [LinkedIn](https://www.linkedin.com/in/yan-lu-0a44b6192/)
+- [Cnblogs](https://www.cnblogs.com/softcorns/)
