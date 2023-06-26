@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-Dev backend and Data Engineer from Paris.
+Developper backend and Data Engineer from Paris.
 
 ## Technologies & Tools
 
