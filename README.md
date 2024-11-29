@@ -1,12 +1,12 @@
 ## Hi, there 👋
 
-Developper Backend and Data Engineer from Paris.
+Developper .NET and Python from Paris.
 
 ## Technologies & Tools
 
-- 🌐 HTML | CSS | JavaScript 
-- 🛢️ MongoDB | SQL Server | PostgreSQL
-- 🖥️ Python | C# | R
+- 🌐 Quant Dev | Data Engineer 
+- 🛢️ SQL Server | Redis | Cassandra
+- 🖥️ C# | Python
 
 ## Blog Posts 
 
